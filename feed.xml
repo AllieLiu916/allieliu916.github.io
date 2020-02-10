@@ -3,12 +3,33 @@
     <title>Jingjing (Allie) Liu</title>
     <link href="https://allieliu916.github.io/feed.xml" rel="self" />
     <link href="https://allieliu916.github.io" />
-    <updated>2020-02-10T15:48:44+08:00</updated>
+    <updated>2020-02-10T18:05:29+08:00</updated>
     <author>
         <name>Allie</name>
     </author>
     <id>https://allieliu916.github.io</id>
 
+    <entry>
+        <title>BLINK 2</title>
+        <author>
+            <name>Allie</name>
+        </author>
+        <link href="https://allieliu916.github.io/blink-2-3.html"/>
+        <id>https://allieliu916.github.io/blink-2-3.html</id>
+            <category term="UX Design"/>
+            <category term="UI Design"/>
+            <category term="My Work"/>
+            <category term="HCI"/>
+
+        <updated>2020-02-10T18:05:21+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://allieliu916.github.io/media/posts/8/ezgif.com-optimize.gif" alt="" />
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/gXc84WMhxb8?controls=0&amp;playlist=gXc84WMhxb8&amp;loop=1&amp;autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>UX &amp; Interface Design</title>
         <author>
