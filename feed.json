@@ -10,22 +10,73 @@
     },
     "items": [
         {
-            "id": "https://allieliu916.github.io/blink-2-3.html",
-            "url": "https://allieliu916.github.io/blink-2-3.html",
-            "title": "BLINK 2",
-            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gXc84WMhxb8?controls=0&amp;playlist=gXc84WMhxb8&amp;loop=1&amp;autoplay=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe>",
-            "image": "https://allieliu916.github.io/media/posts/8/ezgif.com-optimize.gif",
+            "id": "https://allieliu916.github.io/packaging-design.html",
+            "url": "https://allieliu916.github.io/packaging-design.html",
+            "title": "Packaging Design",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/12/gallery/Wei-Biao-Ti-3-23.png\" ><img src=\"https://allieliu916.github.io/media/posts/12/gallery/Wei-Biao-Ti-3-23-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n</div>",
+            "image": "https://allieliu916.github.io/media/posts/12/6.png",
             "author": {
                 "name": "Allie"
             },
             "tags": [
-                   "UX Design",
-                   "UI Design",
-                   "My Work",
-                   "HCI"
+                   "Packaging Structure",
+                   "Packaging Design",
+                   "My Work"
             ],
-            "date_published": "2020-02-10T17:35:51+08:00",
-            "date_modified": "2020-02-10T18:05:21+08:00"
+            "date_published": "2020-02-29T19:31:55+08:00",
+            "date_modified": "2020-02-29T19:37:44+08:00"
+        },
+        {
+            "id": "https://allieliu916.github.io/tommorrow-land-or-pop-up-book-design.html",
+            "url": "https://allieliu916.github.io/tommorrow-land-or-pop-up-book-design.html",
+            "title": "Tommorrow Land | Pop-Up Book Design",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/11/gallery/Wei-Biao-Ti-3-21.png\" ><img src=\"https://allieliu916.github.io/media/posts/11/gallery/Wei-Biao-Ti-3-21-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n</div>",
+            "image": "https://allieliu916.github.io/media/posts/11/5.png",
+            "author": {
+                "name": "Allie"
+            },
+            "tags": [
+                   "Pop-Up Book",
+                   "My Work",
+                   "Illustration"
+            ],
+            "date_published": "2020-02-29T19:31:40+08:00",
+            "date_modified": "2020-02-29T19:37:33+08:00"
+        },
+        {
+            "id": "https://allieliu916.github.io/bun-and-duck-or-book-design.html",
+            "url": "https://allieliu916.github.io/bun-and-duck-or-book-design.html",
+            "title": "Bun &amp; Duck | Book Design",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/10/gallery/Wei-Biao-Ti-3-20.png\" ><img src=\"https://allieliu916.github.io/media/posts/10/gallery/Wei-Biao-Ti-3-20-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n</div>",
+            "image": "https://allieliu916.github.io/media/posts/10/4.png",
+            "author": {
+                "name": "Allie"
+            },
+            "tags": [
+                   "Pop-Up Book",
+                   "My Work",
+                   "Illustration",
+                   "Book Design"
+            ],
+            "date_published": "2020-02-29T19:29:00+08:00",
+            "date_modified": "2020-02-29T19:37:25+08:00"
+        },
+        {
+            "id": "https://allieliu916.github.io/logo-design.html",
+            "url": "https://allieliu916.github.io/logo-design.html",
+            "title": "LOGO Design",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/9/gallery/Wei-Biao-Ti-3-18.png\" ><img src=\"https://allieliu916.github.io/media/posts/9/gallery/Wei-Biao-Ti-3-18-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n</div>",
+            "image": "https://allieliu916.github.io/media/posts/9/3.png",
+            "author": {
+                "name": "Allie"
+            },
+            "tags": [
+                   "VI Design",
+                   "My Work",
+                   "LOGO Design"
+            ],
+            "date_published": "2020-02-29T17:27:38+08:00",
+            "date_modified": "2020-02-29T19:37:07+08:00"
         },
         {
             "id": "https://allieliu916.github.io/ux-and-interface-design.html",
@@ -47,8 +98,8 @@
             "id": "https://allieliu916.github.io/cultural-theme-series-dynamic-illustration-design.html",
             "url": "https://allieliu916.github.io/cultural-theme-series-dynamic-illustration-design.html",
             "title": "China 1936 / Cultural Theme Series Dynamic Illustration Design ",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-1-01.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-1-01-thumbnail.png\" alt=\"\" width=\"495\" height=\"842\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-2-01.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-2-01-thumbnail.png\" alt=\"\" width=\"495\" height=\"842\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-3-01.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-3-01-thumbnail.png\" alt=\"\" width=\"495\" height=\"842\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-4-01.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Min-Guo-Wen-Hua-Zhu-Ti-Xi-Lie-Dong-Tai-Cha-Hua-She-Ji-4-01-thumbnail.png\" alt=\"\" width=\"495\" height=\"842\"></a></figure>\n</div>",
-            "image": "https://allieliu916.github.io/media/posts/2/Wei-Biao-Ti-22-02.png",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-10.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-10-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-11.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-11-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-12.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-12-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-13.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-13-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-14.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-14-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-15.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-15-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-16.png\" ><img src=\"https://allieliu916.github.io/media/posts/2/gallery/Wei-Biao-Ti-3-16-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n</div>",
+            "image": "https://allieliu916.github.io/media/posts/2/2.png",
             "author": {
                 "name": "Allie"
             },
@@ -60,15 +111,15 @@
                    "Animation"
             ],
             "date_published": "2020-02-09T15:06:32+08:00",
-            "date_modified": "2020-02-09T22:49:58+08:00"
+            "date_modified": "2020-02-29T19:30:29+08:00"
         },
         {
             "id": "https://allieliu916.github.io/blink.html",
             "url": "https://allieliu916.github.io/blink.html",
             "title": "BLINK ",
-            "summary": " ",
-            "content_html": "<div class=\"sketchfab-embed-wrapper\"><iframe width=\"640\" height=\"480\" title=\"A 3D model\" src=\"https://sketchfab.com/models/9b97a71a0141408896ed0537ec74b389/embed?autostart=1&amp;preload=1\" frameborder=\"0\" allow=\"autoplay; fullscreen; vr\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\"></iframe><hr>\n<p> </p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-0.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-0-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-1.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-1-thumbnail.png\" alt=\"\" width=\"768\" height=\"447\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-4.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-4-thumbnail.png\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-7.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/Tu-Pian-7-thumbnail.png\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/Duo-Mei-Ti-Ban-Ting.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/Duo-Mei-Ti-Ban-Ting-thumbnail.png\" alt=\"\" width=\"768\" height=\"430\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/Dao-Hang.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/Dao-Hang-thumbnail.png\" alt=\"\" width=\"768\" height=\"431\"></a></figure>\n</div>\n<p> </p>\n</div>",
-            "image": "https://allieliu916.github.io/media/posts/1/Tu-Pian-7.png",
+            "summary": " ",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gXc84WMhxb8?controls=0&amp;playlist=gXc84WMhxb8&amp;loop=1&amp;autoplay=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe>\n<div class=\"sketchfab-embed-wrapper\"><iframe width=\"800\" height=\"480\" title=\"A 3D model\" src=\"https://sketchfab.com/models/239a4811f345465b9dbee600ead22d53/embed?autostart=1\" frameborder=\"0\" allow=\"autoplay; fullscreen; vr\" mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\"></iframe> </div>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/1.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-01.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-01-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-02.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-02-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-03.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-03-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-04.png\" ><img src=\"https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-04-thumbnail.png\" alt=\"\" width=\"768\" height=\"519\"></a></figure>\n</div>",
+            "image": "https://allieliu916.github.io/media/posts/1/Blink-front-page.gif",
             "author": {
                 "name": "Allie"
             },
@@ -79,7 +130,7 @@
                    "HCI"
             ],
             "date_published": "2020-02-09T14:23:16+08:00",
-            "date_modified": "2020-02-09T22:49:40+08:00"
+            "date_modified": "2020-02-29T19:27:30+08:00"
         }
     ]
 }
