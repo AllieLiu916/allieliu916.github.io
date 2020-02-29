@@ -3,14 +3,14 @@
     <title>Jingjing (Allie) Liu</title>
     <link href="https://allieliu916.github.io/feed.xml" rel="self" />
     <link href="https://allieliu916.github.io" />
-    <updated>2020-02-29T19:46:34+08:00</updated>
+    <updated>2020-02-29T21:47:59+08:00</updated>
     <author>
         <name>Allie</name>
     </author>
     <id>https://allieliu916.github.io</id>
 
     <entry>
-        <title>Packaging Design</title>
+        <title>Ladurée &amp; BonVoyage | Packaging Design</title>
         <author>
             <name>Allie</name>
         </author>
@@ -20,7 +20,7 @@
             <category term="Packaging Design"/>
             <category term="My Work"/>
 
-        <updated>2020-02-29T19:37:44+08:00</updated>
+        <updated>2020-02-29T21:11:36+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -77,7 +77,7 @@
         </content>
     </entry>
     <entry>
-        <title>LOGO Design</title>
+        <title>LOGO Design | Visual Identity System</title>
         <author>
             <name>Allie</name>
         </author>
@@ -87,7 +87,7 @@
             <category term="My Work"/>
             <category term="LOGO Design"/>
 
-        <updated>2020-02-29T19:37:07+08:00</updated>
+        <updated>2020-02-29T21:09:58+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -95,38 +95,6 @@
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/9/gallery/Wei-Biao-Ti-3-18.png" ><img src="https://allieliu916.github.io/media/posts/9/gallery/Wei-Biao-Ti-3-18-thumbnail.png" alt="" width="768" height="519"></a></figure>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>UX &amp; Interface Design</title>
-        <author>
-            <name>Allie</name>
-        </author>
-        <link href="https://allieliu916.github.io/ux-and-interface-design.html"/>
-        <id>https://allieliu916.github.io/ux-and-interface-design.html</id>
-            <category term="My Work"/>
-
-        <updated>2020-02-09T23:12:06+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://allieliu916.github.io/media/posts/3/Tu-Biao-She-Ji-1.png" alt="" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://allieliu916.github.io/media/posts/3/Tu-Biao-She-Ji-1.png" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/3/gallery/Tu-Biao-She-Ji-1.png" ><img src="https://allieliu916.github.io/media/posts/3/gallery/Tu-Biao-She-Ji-1-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/3/gallery/Tu-Biao-She-Ji-2.png" ><img src="https://allieliu916.github.io/media/posts/3/gallery/Tu-Biao-She-Ji-2-thumbnail.png" alt="" width="768" height="768"></a></figure>
-</div>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/3/gallery/1-01.png" ><img src="https://allieliu916.github.io/media/posts/3/gallery/1-01-thumbnail.png" alt="" width="303" height="421"></a></figure>
-<figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/3/gallery/2-01.png" ><img src="https://allieliu916.github.io/media/posts/3/gallery/2-01-thumbnail.png" alt="" width="303" height="421"></a></figure>
-<figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/3/gallery/Liu-Jing-Jing-Nan-Jing-Li-Gong-Da-Xue-E-Lei-Exchangerapp-Jie-Mian-She-Ji-Zuo-Pin-2-01.png" ><img src="https://allieliu916.github.io/media/posts/3/gallery/Liu-Jing-Jing-Nan-Jing-Li-Gong-Da-Xue-E-Lei-Exchangerapp-Jie-Mian-She-Ji-Zuo-Pin-2-01-thumbnail.png" alt="" width="596" height="842"></a></figure>
-</div>
-<p> </p>
             ]]>
         </content>
     </entry>
@@ -161,7 +129,7 @@
         </content>
     </entry>
     <entry>
-        <title>BLINK </title>
+        <title>BLINK | In-Vehicle Infotainment System Design</title>
         <author>
             <name>Allie</name>
         </author>
@@ -172,7 +140,7 @@
             <category term="My Work"/>
             <category term="HCI"/>
 
-        <updated>2020-02-29T19:27:30+08:00</updated>
+        <updated>2020-02-29T21:05:27+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://allieliu916.github.io/media/posts/1/Blink-front-page.gif" alt="" />
@@ -185,7 +153,7 @@
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXc84WMhxb8?controls=0&amp;playlist=gXc84WMhxb8&amp;loop=1&amp;autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 <div class="sketchfab-embed-wrapper"><iframe width="800" height="480" title="A 3D model" src="https://sketchfab.com/models/239a4811f345465b9dbee600ead22d53/embed?autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe> </div>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/1/gallery/1.png" ><img src="https://allieliu916.github.io/media/posts/1/gallery/1-thumbnail.png" alt="" width="768" height="519"></a></figure>
+<figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/1/gallery/2020portfolio-De-Fu-Ben-01.png" ><img src="https://allieliu916.github.io/media/posts/1/gallery/2020portfolio-De-Fu-Ben-01-thumbnail.png" alt="" width="768" height="519"></a></figure>
 <figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-01.png" ><img src="https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-01-thumbnail.png" alt="" width="768" height="519"></a></figure>
 <figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-02.png" ><img src="https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-02-thumbnail.png" alt="" width="768" height="519"></a></figure>
 <figure class="gallery__item"><a href="https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-03.png" ><img src="https://allieliu916.github.io/media/posts/1/gallery/2021portfolio-Ying-Wen-Xin-03-thumbnail.png" alt="" width="768" height="519"></a></figure>
